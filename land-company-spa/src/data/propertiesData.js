@@ -1,0 +1,42 @@
+export const propertiesData = [
+  {
+    id: 1,
+    title: "Kitengela Residential Plots",
+    price: "KES 1.2M per 1/8 acre",
+    location: "Kitengela, Kajiado",
+    county: "Kajiado",
+    image: "https://pictures-kenya.jijistatic.com/67422638_MTYwMC0xMjAwLWYzYzY1MjkzYTU.webp",
+  },
+  {
+    id: 2,
+    title: "Nanyuki Scenic Plots",
+    price: "KES 850K per 1/8 acre",
+    location: "Nanyuki, Laikipia",
+    county: "Laikipia",
+    image: "https://www.riccohomes.co.ke/wp-content/uploads/2022/02/land-for-sale-in-nanyuki-2.jpg",
+  },
+  {
+    id: 3,
+    title: "Malindi Beachfront Land",
+    price: "KES 2.5M per 1/4 acre",
+    location: "Malindi, Kilifi",
+    county: "Kilifi",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_wgYAVmoKthK2hjOX8WdLG3FIjfFwIxA-Q&s",
+  },
+  {
+    id: 4,
+    title: "Kangundo Road Investment Plots",
+    price: "KES 950K per 1/8 acre",
+    location: "Joska, Machakos",
+    county: "Machakos",
+    image: "https://propscout.co.ke/storage/properties/files/lands-plots/thumbnails/-10-acre-agricultural-land-for-sale-in-naivasha-4frio.jpg",
+  },
+  {
+    id: 5,
+    title: "Naivasha Agricultural Land",
+    price: "KES 1.8M per acre",
+    location: "Naivasha, Nakuru",
+    county: "Nakuru",
+    image: "https://propscout.co.ke/storage/properties/files/lands-plots/webp/10-acre-agricultural-land-for-sale-in-naivasha-e3olz.webp",
+  },
+];
